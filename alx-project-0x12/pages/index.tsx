@@ -1,5 +1,5 @@
 import ImageCard from "@/components/common/ImageCard";
-import useFetchData from "@/Hooks/useFetchData";
+import useFetchData from "@/hooks/useFetchData";
 import { ImageProps } from "@/interfaces";
 import React, { useEffect, useState } from "react";
 
